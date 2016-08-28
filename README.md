@@ -1,6 +1,8 @@
 # Windows 10 IoT PinServer Sample
 
-IotPinServer creates a website on the Raspberry Pi.   Any browser on the local network can show and change the state of the GPIO pins.   You can check your breadboard connections before testing your own app.   Pins in use by other apps are greyed out. 
+IotPinServer creates a website on the Raspberry Pi.   Any browser on the local network can show and change the state of the GPIO pins.   You can check your breadboard connections before testing your own app.   
+
+Pins in use by other apps are greyed out. 
 
 Some changes are automatic. If you toggle High/Low the pin will be opened and the mode will be changed to output.  
 
