@@ -8,6 +8,8 @@ If you open an input pin it will be continuosly polled and any changes will be d
 
 Selecting Input instead of PullUp or PullDown will give random High/Low readings if the pin is not connected.
 
+The Raspberry Pi does not support OpenDrain or OpenSource optput modes.
+
 ![ScreenShot] (IotPinServer1.jpg)
 
 <ul>
